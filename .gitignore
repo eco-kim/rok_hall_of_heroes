@@ -1,0 +1,4 @@
+screenshots/*
+env*
+service/discord/bot_info.json
+*.csv
