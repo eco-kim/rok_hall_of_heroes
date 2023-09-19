@@ -1,0 +1,15 @@
+{
+    "home":"",
+    "bot_info":{
+        "APPLICATION ID" : "",
+        "PUBLIC KEY" : "",
+        "TOKEN" : ""
+    },
+    "kd_info":{
+        "1525":{
+            "discord_server_name" : "EL 1525",
+            "discord_sever_id" : "",
+            "discord_channel_name":""
+    }}
+
+}
